@@ -1,0 +1,42 @@
+table {
+    border: 0.1rem solid rgb(57, 165, 192);
+    margin-left: 2.5rem;
+}
+
+thead {
+    background-color: green; 
+    color: ivory;
+}
+
+tbody {
+    background-color: lightcyan; 
+    color: black;
+}
+
+caption {
+    margin-bottom: 1rem;
+    color: green;
+    text-transform: capitalize;
+}
+
+td {
+    padding: 0.4rem;
+}
+
+#add {
+    background-color: lightblue; 
+    color: darkblue;
+}
+
+#display {
+    background-color: lightyellow;
+    color: darkgoldenrod;
+}
+
+.remove {
+    background-color: lightcoral; 
+    color: darkred;
+}
+#btn {
+    margin: 1rem;
+}
